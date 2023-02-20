@@ -19,11 +19,12 @@ If parameter [number of thread] and [sampling number] are not entered, the defau
 
 For example:
 -----------------------------------------------
-./FastBCC ./test.txt 1 5 ./sample_test.txt
+./FastBCC ./test.txt 1 3 ./sample_test.txt
 
-./FastBCC ./test.txt 1 5 ./sample_test.txt 1
+./FastBCC ./test.txt 1 3 ./sample_test.txt 1
 
-./FastBCC ./test.txt 1 10 ./sample_test.txt 8 1024
+./FastBCC ./test.txt 1 3 ./sample_test.txt 8 1024 
+
 -----------------------------------------------
 
 
